@@ -17,7 +17,6 @@
 - Learning by building: systems programming, Android, web, and developer tooling
 - I like small, useful programs that do one thing well
 - Big believer in open source and sharing what I learn
-- Current goal: get my first pull request merged into [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 ## 🛠️ Tech stack
 
@@ -65,7 +64,6 @@
 ## 🚀 Now
 
 - 📚 Learning: systems programming, Android development, and web tooling
-- 🎯 Working toward my first merged PR on AnyPS5
 - 🤝 Open to feedback, issues, and pull requests on any of my repos
 
 ## 📫 Find me
